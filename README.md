@@ -1,1 +1,1 @@
-# movie-search-app
+I developed this movie seaching app by using html,css and javascript which enables a user to see the movies posters,their overviews and also the ratings of the movies.Here you can also search you favorite movie about which you wanna know .# movie-search-app
